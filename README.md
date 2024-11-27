@@ -2,7 +2,7 @@
 **Electronics Engineer | Embedded Systems Enthusiast | Advocate for Sustainable Technology**
 
 📍 Turin, Italy  
-📧 [Email Me](mailto:mahadihasan.alif@studenti.polito.it)  
+📧 [Email Me](mailto:s306365@studenti.polito.it)  
 🌐 [LinkedIn](https://www.linkedin.com/in/mahadi-hasan-alif) | [GitHub](https://github.com/MahadiAlif)
 
 ---
